@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/25 11:37:29.000.605,=C:\Users\henry\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/25 11:47:29.000.796,C:\Users\henry\OneDrive\Área de Trabalho\Redes\uMain.dfm=C:\Users\henry\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/11/25 11:47:29.000.796,C:\Users\henry\OneDrive\Área de Trabalho\Redes\uMain.pas=C:\Users\henry\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/25 11:47:42.000.729,C:\Users\henry\OneDrive\Área de Trabalho\Redes\RedesComputadores.dproj=C:\Users\henry\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/11/25 11:48:00.000.260,C:\Users\henry\OneDrive\Área de Trabalho\Redes\Client.exe.dproj=C:\Users\henry\OneDrive\Área de Trabalho\Redes\RedesComputadores.dproj</Transaction>
+    <Transaction>2023/11/25 11:48:05.000.214,C:\Users\henry\OneDrive\Área de Trabalho\Redes\Client.dproj=C:\Users\henry\OneDrive\Área de Trabalho\Redes\Client.exe.dproj</Transaction>
+    <Transaction>2023/11/25 11:52:52.000.616,=C:\Users\henry\OneDrive\Área de Trabalho\Redes\Unit1.pas</Transaction>
+    <Transaction>2023/11/25 11:53:06.000.528,=C:\Users\henry\OneDrive\Área de Trabalho\Redes\Unit1.pas</Transaction>
+    <Transaction>2023/11/25 11:53:14.000.776,=C:\Users\henry\OneDrive\Área de Trabalho\Redes\Unit1.pas</Transaction>
+    <Transaction>2023/11/25 11:53:25.000.355,=C:\Users\henry\OneDrive\Área de Trabalho\Redes\Unit1.pas</Transaction>
+    <Transaction>2023/11/25 11:53:32.000.271,C:\Users\henry\OneDrive\Área de Trabalho\Redes\uFase1.pas=C:\Users\henry\OneDrive\Área de Trabalho\Redes\Unit1.pas</Transaction>
+    <Transaction>2023/11/25 11:53:32.000.271,C:\Users\henry\OneDrive\Área de Trabalho\Redes\uFase1.dfm=C:\Users\henry\OneDrive\Área de Trabalho\Redes\Unit1.dfm</Transaction>
+    <Transaction>2023/11/25 11:53:52.000.654,=C:\Users\henry\OneDrive\Área de Trabalho\Redes\Unit1.pas</Transaction>
+    <Transaction>2023/11/25 11:53:58.000.189,C:\Users\henry\OneDrive\Área de Trabalho\Redes\uFase2.pas=C:\Users\henry\OneDrive\Área de Trabalho\Redes\Unit1.pas</Transaction>
+    <Transaction>2023/11/25 11:53:58.000.189,C:\Users\henry\OneDrive\Área de Trabalho\Redes\uFase2.dfm=C:\Users\henry\OneDrive\Área de Trabalho\Redes\Unit1.dfm</Transaction>
+    <Transaction>2023/11/25 11:54:06.000.741,C:\Users\henry\OneDrive\Área de Trabalho\Redes\uFase2.pas=</Transaction>
+    <Transaction>2023/11/25 11:54:11.000.230,C:\Users\henry\OneDrive\Área de Trabalho\Redes\uFase.dfm=C:\Users\henry\OneDrive\Área de Trabalho\Redes\uFase1.dfm</Transaction>
+    <Transaction>2023/11/25 11:54:11.000.230,C:\Users\henry\OneDrive\Área de Trabalho\Redes\uFase.pas=C:\Users\henry\OneDrive\Área de Trabalho\Redes\uFase1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
